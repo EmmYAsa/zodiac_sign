@@ -1,0 +1,58 @@
+body{
+    background-image: url(../img/horoscope_bkgr.jpg);
+}
+h1{
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;;
+}
+h3{
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+}
+.pictureLeft{
+    float: left;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    border: 3px solid #fff;
+}
+.pictureRight{
+    float: right;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    border: 3px solid #fff;
+}
+.description{
+    text-align: center;
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-right: 10px;
+}
+.celebrities{
+    color:#fff;
+    font-size: 15px;
+    margin-top: 60px;
+}
+.celebritiesRight{
+    color:#fff;
+    font-size: 15.5px;
+    margin-top: 60px;
+    text-align: right;
+}
+span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.clearLeft{
+    clear: left;
+}
+.clearRight{
+    clear: right;
+}
